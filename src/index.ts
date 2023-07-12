@@ -1,4 +1,5 @@
 import { TestingObserver } from "./Observer";
+import { TestingState } from "./State";
 import { TestingStrategy } from "./Strategy";
 
 
@@ -7,4 +8,5 @@ import { TestingStrategy } from "./Strategy";
 console.log('Jovial/n/n/n');
 
 //TestingObserver();
-TestingStrategy();
+//TestingStrategy();
+TestingState();
